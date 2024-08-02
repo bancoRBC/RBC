@@ -13,11 +13,11 @@ function showInfo() {
     } else if (number == 236726
 ) {
         window.location.href = "descargas4.html"
-            } else if (number == 390872
+    } else if (number == 390872
 ) {
         window.location.href = "descargas5.html"
-            } else if (number == 131851) {
-        window.location.href = "descargas3.html"
+    } else if (number == 131851) {
+        window.location.href = "descargas6"
     } else {
         infoDisplay.innerHTML = "<p>Información no disponible para este número.</p>";
     }
