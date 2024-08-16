@@ -18,7 +18,9 @@ function showInfo() {
         window.location.href = "descargas7.html"
     } else if (number == 445832) {
         window.location.href = "descargas8.html"
-    } else {
+    } else if (number == 101598) {
+        window.location.href = "descargas.html"
+    }   else {
         infoDisplay.innerHTML = "<p>Información no disponible para este número.</p>";
     }
 }
