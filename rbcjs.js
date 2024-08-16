@@ -3,7 +3,7 @@ function showInfo() {
     var infoDisplay = document.getElementById('infoDisplay2');
     
     if (number == 101598) {
-        window.location.href = "/descargas.html"
+        window.location.href = "descargas.html"
     } else if (number == 815776) {
         window.location.href = "descargas2.html"
     } else if (number == 525905) {
